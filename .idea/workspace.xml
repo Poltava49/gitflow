@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="675a5391-ee09-41a9-bfd5-9049ab93d967" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Sergey.txt" afterDir="false" />
-    </list>
+    <list default="true" id="675a5391-ee09-41a9-bfd5-9049ab93d967" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,7 +24,6 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "nikJohn",
     "last_opened_file_path": "/Users/trofimchukden/Desktop/Python_edu/git_lab2_lesson2"
   }
 }]]></component>
